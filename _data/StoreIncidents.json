@@ -126,11 +126,6 @@
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "maninblack",
-		"price": 1000,
-		"karmatype": "Neutral"
-	},
-	{
 		"abr": "madanimal",
 		"price": 200,
 		"karmatype": "Bad"
@@ -233,7 +228,7 @@
 	{
 		"abr": "manhunterpack",
 		"price": 1500,
-		"karmatype": "Bad"
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "predators",
@@ -416,5 +411,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 83
+	"total": 82
 }

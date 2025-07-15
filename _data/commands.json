@@ -222,8 +222,8 @@
       "isBalance": false,
       "hasGlobalCooldown": false,
       "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
+      "hasLocalCooldown": true,
+      "localCooldown": 60,
       "mod": "Twitch Toolkit"
     },
     "description": null,
@@ -1012,8 +1012,8 @@
       "isShortcut": false,
       "isBuy": false,
       "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
+      "hasGlobalCooldown": true,
+      "globalCooldown": 1800,
       "hasLocalCooldown": false,
       "localCooldown": 0,
       "mod": "ToolkitUtils"
