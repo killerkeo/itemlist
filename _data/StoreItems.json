@@ -8465,6 +8465,42 @@
 		"price": 76,
 		"category": "Storage",
 		"defname": "sbz_WeaponRack"
+	},
+	{
+		"abr": "whip",
+		"price": 203,
+		"category": "Ranged weapons",
+		"defname": "VWE_Tool_Whip"
+	},
+	{
+		"abr": "wickerman",
+		"price": 178,
+		"category": "Misc",
+		"defname": "VME_WickerMan"
+	},
+	{
+		"abr": "widehat",
+		"price": 126,
+		"category": "Headgear",
+		"defname": "VIEHAR_Apparel_WideHat"
+	},
+	{
+		"abr": "wolverine",
+		"price": 250,
+		"category": "Animals",
+		"defname": "Wolverine"
+	},
+	{
+		"abr": "wolverinemeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Wolverine"
+	},
+	{
+		"abr": "woodenarmor",
+		"price": 286,
+		"category": "Armor",
+		"defname": "VAE_Apparel_WoodenArmor"
 	}
 	],
 	"total": 1417
