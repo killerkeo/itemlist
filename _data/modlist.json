@@ -6,6 +6,12 @@
     "version": "2.3.4.0"
   },
   {
+    "author": "UnlimitedHugs",
+    "name": "HugsLib",
+    "steamId": "818773962",
+    "version": "12.0.0"
+  },
+  {
     "author": "AUTOMATIC",
     "name": "Bionic icons",
     "steamId": null,
@@ -15,25 +21,31 @@
     "author": "CrashM",
     "name": "CM Color Coded Mood Bar [1.1+]",
     "steamId": "2006605356",
-    "version": "1.6.4488.1"
+    "version": "1.6.4518.1"
   },
   {
     "author": "Andreas Pardeike",
     "name": "Camera+",
     "steamId": "867467808",
-    "version": "3.3.1.0"
+    "version": "3.3.2.0"
   },
   {
     "author": "void",
     "name": "Character Editor",
     "steamId": "1874644848",
-    "version": "1.6.1.0"
+    "version": "1.6.3.3"
   },
   {
     "author": "avilmask",
     "name": "Common Sense",
     "steamId": "1561769193",
-    "version": "1.0.9323.35197"
+    "version": "1.0.9335.31941"
+  },
+  {
+    "author": "miyamiya, twsta and vokaerian",
+    "name": "Compressed Raid Continued",
+    "steamId": "3475786927",
+    "version": "1.0.0.0"
   },
   {
     "author": "dracoix",
@@ -54,10 +66,28 @@
     "version": "1.2.7365"
   },
   {
+    "author": "anobs, jecrell and contributors",
+    "name": "JecsTools Unofficial 1.6 BETA",
+    "steamId": "3524247750",
+    "version": "1.5.0.0"
+  },
+  {
+    "author": "EdB",
+    "name": "EdB Prepare Carefully",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Leoltron",
+    "name": "Explicit Timings",
+    "steamId": "3205587823",
+    "version": "1.1.4+03d7fa8a7659f8f39d4876f531bdc921c981e430"
+  },
+  {
     "author": "m00nl1ght",
     "name": "Geological Landforms",
     "steamId": "2773943594",
-    "version": "1.7.4+ded0492d446618ef74ac43f6d9053cd29943bbd3"
+    "version": "1.7.9+0151f5406606e95ae9c25c1de98edf594b46c3f9"
   },
   {
     "author": "erdelf",
@@ -66,22 +96,64 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Hanabishi",
+    "name": "In-wall coolers and vents",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Jaxe",
     "name": "Interaction Bubbles",
     "steamId": "1516158345",
-    "version": "4.0.0.0"
+    "version": "4.1.0.0"
+  },
+  {
+    "author": "Zaljerem",
+    "name": "JecsLite - A RimWorld of Magic",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Torann",
+    "name": "A RimWorld of Magic",
+    "steamId": "1201382956",
+    "version": "2.6.4.1"
+  },
+  {
+    "author": "Kure",
+    "name": "Kure's Rimworld of Magic Class Expansion Pack",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "m00nl1ght",
     "name": "Map Preview",
     "steamId": "2800857642",
-    "version": "1.12.18+6dfbf8b6dfba1c7b28334b0cd0257d2c7600cfa3"
+    "version": "1.12.21+651341b315d95aeea69c6c135a55e57dc9a7ae8a"
   },
   {
     "author": "Haplo",
     "name": "Misc. Training",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Zylle",
+    "name": "More Vanilla Biomes",
+    "steamId": "1931453053",
+    "version": "0.1.5.01"
+  },
+  {
+    "author": "doll",
+    "name": "Never Generate Relations",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Mehni",
+    "name": "Numbers",
+    "steamId": "1414302321",
+    "version": "1.0.0+3becb974cac33361f1e8b9711923eddced9e53ab"
   },
   {
     "author": "PeteTimesSix",
@@ -126,6 +198,12 @@
     "version": null
   },
   {
+    "author": "Carny Senpai",
+    "name": "Trait Rarity Colors",
+    "steamId": "1751884355",
+    "version": "1.6.0.0"
+  },
+  {
     "author": "nry",
     "name": "ToolkitCore",
     "steamId": "3013877477",
@@ -153,7 +231,19 @@
     "author": "Mlie",
     "name": "Use This Instead",
     "steamId": "3396308787",
-    "version": "1.6.25"
+    "version": "1.6.31"
+  },
+  {
+    "author": "Oskar Potocki and Taranchuk",
+    "name": "Vanilla Social Interactions Expanded",
+    "steamId": "2439736083",
+    "version": "1.0.0.1"
+  },
+  {
+    "author": "Stagz",
+    "name": "VSIE - Rational Trait Development",
+    "steamId": "2916405546",
+    "version": "1.0.0.0"
   },
   {
     "author": "Oskar Potocki, Trunken and Sarg",
@@ -273,7 +363,7 @@
     "author": "Jaxe",
     "name": "RimHUD",
     "steamId": "1508850027",
-    "version": "1.16.1.0"
+    "version": "1.16.6+36c29671c10764fa702953ff7de8b52159959ead"
   },
   {
     "author": "legodude17, Oskar Potocki and Sarg Bjornson",
@@ -282,20 +372,20 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Oskar Potocki and Taranchuk",
-    "name": "Vanilla Social Interactions Expanded",
-    "steamId": "2439736083",
-    "version": "1.0.0.1"
-  },
-  {
-    "author": "Oskar Potocki, Taranchuk and Chowder",
-    "name": "Vanilla Traits Expanded",
-    "steamId": "2296404655",
-    "version": "1.4.1.0"
-  },
-  {
     "author": "Oskar Potocki",
     "name": "Vanilla Weapons Expanded - Grenades",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "addvans",
+    "name": "WASDed Pawn",
+    "steamId": "3471835151",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Honey Badger (MrBadgi)",
+    "name": "Wall Mounted Turrets Version 2",
     "steamId": null,
     "version": null
   },
@@ -324,16 +414,34 @@
     "version": null
   },
   {
-    "author": "addvans",
-    "name": "WASDed Pawn",
-    "steamId": "3471835151",
-    "version": "1.0.0.0"
+    "author": "Sk",
+    "name": "Weapon Mastery",
+    "steamId": "2766683678",
+    "version": "2.3.2"
+  },
+  {
+    "author": "kaitorisenkou",
+    "name": "What's Today's Menu",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "FrozenSnowFox",
     "name": "[FSF] Filth Vanishes With Rain And Time",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Oskar Potocki, Taranchuk and Chowder",
+    "name": "Vanilla Traits Expanded",
+    "steamId": "2296404655",
+    "version": "1.4.1.0"
+  },
+  {
+    "author": "Rainbeau Flambe (original) & Kiame Vivacity",
+    "name": "[KV] More Trait Slots",
+    "steamId": "1508292711",
+    "version": "1.0.7862.37403"
   },
   {
     "author": "seobongzu",
