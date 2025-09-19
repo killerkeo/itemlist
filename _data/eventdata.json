@@ -218,9 +218,9 @@
   "maninblack": {
     "EventType": "Default",
     "HasGlobalCooldown": true,
-    "HasLocalCooldown": false,
-    "GlobalCooldown": 300,
-    "LocalCooldown": 0,
+    "HasLocalCooldown": true,
+    "GlobalCooldown": 0,
+    "LocalCooldown": 99999999,
     "Mod": "Twitch Toolkit"
   },
   "madanimal": {
