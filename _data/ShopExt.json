@@ -1,4 +1,4 @@
-{
+﻿{
   "traits": [
     {
       "canAdd": true,
@@ -593,7 +593,7 @@
       "name": "wimp"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 1500,
       "removePrice": 200,
@@ -5457,6 +5457,74 @@
       },
       "defName": "VRE_Distressed",
       "name": "distressed"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1,
+      "description": "Timmy's reflexes are truly out of this world. They can parry melee attacks without any training and even deflect projectiles, if luck permits.",
+      "stats": [
+        "+10.0 melee parry melee chance",
+        "+5.0 melee parry projectile chance",
+        "+10.0 melee dodge chance"
+      ],
+      "conflicts": [
+        "wimp"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "wimp"
+        ],
+        "stats": [
+          "+10.0 melee parry melee chance",
+          "+5.0 melee parry projectile chance",
+          "+10.0 melee dodge chance"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Supreme Melee (Continued)",
+        "karmaTypeForAdding": null
+      },
+      "defName": "SupremeMelee_QuickReflexes",
+      "name": "quickreflexes"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 2,
+      "description": "Timmy's reflexes transcend common sense. They effortlessly parry melee attacks and even deflect projectiles, if luck permits.",
+      "stats": [
+        "+20.0 melee parry melee chance",
+        "+10.0 melee parry projectile chance",
+        "+20.0 melee dodge chance"
+      ],
+      "conflicts": [
+        "wimp"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "wimp"
+        ],
+        "stats": [
+          "+20.0 melee parry melee chance",
+          "+10.0 melee parry projectile chance",
+          "+20.0 melee dodge chance"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Supreme Melee (Continued)",
+        "karmaTypeForAdding": null
+      },
+      "defName": "SupremeMelee_QuickReflexes",
+      "name": "transcendentreflexes"
     }
   ],
   "races": [
